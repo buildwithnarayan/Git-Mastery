@@ -236,3 +236,9 @@ Using local configuration allows them to use different identities for different 
 # What's Next?
 
 In the next lesson, you'll create your first Git repository, make your first commit, and inspect the `.git` directory to understand exactly what Git creates behind the scenes.
+
+---
+
+⬅️ Previous: [Git Installation](06-Installing-Git.md)
+
+➡️ Next: [Your First Git Repository](08-Your-First-Git-Repository.md)

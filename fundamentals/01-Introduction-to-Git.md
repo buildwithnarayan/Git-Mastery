@@ -189,5 +189,6 @@ git version 2.x.x
 In the next chapter, we will learn **Version Control Systems** and understand why they are essential for modern software development before exploring Git in greater depth.
 
 
+---
 
 ➡️ Next: [Version Control](02-Version-Control.md)

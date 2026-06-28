@@ -242,6 +242,7 @@ In the next chapter, we'll answer an important question:
 
 **Why was Git created when other Version Control Systems already existed?**
 
+---
 
 ⬅️ Previous: [Git Introduction](01-Introduction-to-Git.md)
 

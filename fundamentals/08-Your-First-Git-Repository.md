@@ -352,3 +352,8 @@ Congratulations!
 You have completed **Module 1 – Git Fundamentals**.
 
 In Module 2, you'll begin using Git daily and learn the commands that software engineers use every day.
+
+---
+
+⬅️ Previous: [Git Configuration](07-Configuring-Git.md)
+

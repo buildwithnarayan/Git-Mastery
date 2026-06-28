@@ -210,6 +210,7 @@ In the next chapter, we'll answer one of the most common interview questions:
 
 Although many people use the terms interchangeably, they are very different technologies with different purposes.
 
+---
 
 ⬅️ Previous: [Version Control](02-Version-Control.md)
 

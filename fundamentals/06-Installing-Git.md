@@ -200,3 +200,8 @@ Complete the following:
 
 In the next lesson, you'll configure Git with your identity and understand the difference between **system**, **global**, and **local** Git configuration.
 
+---
+
+⬅️ Previous: [Git Architecture](05-Git-Architecture.md)
+
+➡️ Next: [Git Configuration](07-Configuring-Git.md)

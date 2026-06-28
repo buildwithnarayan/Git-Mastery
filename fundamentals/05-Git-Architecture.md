@@ -285,3 +285,8 @@ Identify:
 
 In the next chapter, we'll install Git, configure it properly, and create our first repository from scratch using best practices.
 
+---
+
+⬅️ Previous: [Git vs GitHub](04-Git-vs-GitHub.md)
+
+➡️ Next: [Git Installation](06-Installing-Git.md)
